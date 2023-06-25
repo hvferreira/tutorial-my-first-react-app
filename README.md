@@ -1,3 +1,32 @@
+# Tutorial My First App React 
+
+—
+
+## Prerequisites
+
+React 
+IDE
+---
+
+## Key Features of Solution
+
++ Creation of a React app from scratch
+
+—
+
+## Run Application
+
++ To run this application read my tutorial
++ Get the code from https://github.com/hvferreira/tutorial-my-first-react-app
+
+
+---
+
+## Future Considerations
+
++ Be creative
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
